@@ -1,0 +1,14 @@
+C:\Users\svech\RiderProjects\Generics\Generics\bin\Debug\net8.0\Generics.exe
+C:\Users\svech\RiderProjects\Generics\Generics\bin\Debug\net8.0\Generics.deps.json
+C:\Users\svech\RiderProjects\Generics\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+C:\Users\svech\RiderProjects\Generics\Generics\bin\Debug\net8.0\Generics.dll
+C:\Users\svech\RiderProjects\Generics\Generics\bin\Debug\net8.0\Generics.pdb
+C:\Users\svech\RiderProjects\Generics\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svech\RiderProjects\Generics\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+C:\Users\svech\RiderProjects\Generics\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+C:\Users\svech\RiderProjects\Generics\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\svech\RiderProjects\Generics\Generics\obj\Debug\net8.0\Generics.dll
+C:\Users\svech\RiderProjects\Generics\Generics\obj\Debug\net8.0\refint\Generics.dll
+C:\Users\svech\RiderProjects\Generics\Generics\obj\Debug\net8.0\Generics.pdb
+C:\Users\svech\RiderProjects\Generics\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+C:\Users\svech\RiderProjects\Generics\Generics\obj\Debug\net8.0\ref\Generics.dll
